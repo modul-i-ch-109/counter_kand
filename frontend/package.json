@@ -20,7 +20,7 @@
     "react-final-form": "^6.5.9",
     "react-router-dom": "^6.4.3",
     "react-scripts": "5.0.1",
-    "react-select": "^5.6.1",
+    "react-select": "^5.7.0",
     "serve": "^14.1.1"
   },
   "scripts": {
